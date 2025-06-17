@@ -1,5 +1,3 @@
-Claro! Aqui está o conteúdo do `README.md` **sem a formatação Markdown** (sem `#`, `**`, etc.), ideal para colar em um editor de texto simples ou mostrar para o professor diretamente:
-
 Impacto do Desmatamento
 
 Projeto desenvolvido para o Agrinho 2025, com o objetivo de conscientizar sobre os impactos do desmatamento no Brasil.
